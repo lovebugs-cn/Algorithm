@@ -1,2 +1,5 @@
 # Algorithm
-Algorithm programming problem
+## 《剑指0ffer第2版》中典型编程题，我个人的算法实现  
+
+*  找出数组中重复的数字（P39）
+*  不修改数组找出重复的数字--二分查找（P41）

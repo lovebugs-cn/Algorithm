@@ -1,6 +1,6 @@
 package algorithm;
 
-public class reConstructBinaryTree {
+public class ReConstructBinaryTree {
 	
 	public static class BinaryTreeNode{
 		int value;

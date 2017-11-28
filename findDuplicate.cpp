@@ -21,7 +21,6 @@ int duplication(int arr[],int length){
     return -1;
 }
 
-
 int main(){
     int arr[5] = {4,1,3,2,4};
     cout<<duplication(arr,5);

@@ -12,7 +12,7 @@ void addToTail(ListNode **pHead,int value){
 
     ListNode *pNew = new ListNode();
     pNew->p_value = value;
-    pNew->p_next = nullptr;
+    pNew->p_next = NULL;
 
     if(*pHead == NULL){
         *pHead = pNew;

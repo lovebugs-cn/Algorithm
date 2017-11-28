@@ -32,6 +32,8 @@ int getDuplication(int arr[],int length){
     return -1;
 }
 
+
+
 int main(){
     int arr[5] = {1,2,2,3,4};
     cout<<getDuplication(arr,5);
